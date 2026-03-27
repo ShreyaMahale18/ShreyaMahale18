@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Shreya Mahale
 
 🎓 AI & ML Student | Mumbai University  
-💻 Learning AI Agenric | App Developer  
+💻 Learning AI Agentic | App Developer  
 
 ---
 
