@@ -15,7 +15,7 @@
 ## 💡 Skills & Technologies
 - Programming: Java, Python, Kotlin , JavaScript  
 - Development: Mobile App Development, Web Basics  
-- Tools: Git, GitHub  
+- Tools: GitHub,n8n  
 
 
 
