@@ -1,8 +1,7 @@
 # Hi there 👋, I'm Shreya Mahale
 
 🎓 AI & ML Student | Mumbai University  
-💻 Aspiring AI Developer | Mobile App Developer  
-🚀 Passionate about building real-world solutions using technology  
+💻 Learning AI Agenric | App Developer  
 
 ---
 
@@ -14,21 +13,11 @@
 ---
 
 ## 💡 Skills & Technologies
-- Programming: Java, Python, C, C++, JavaScript  
+- Programming: Java, Python, Kotlin , JavaScript  
 - Development: Mobile App Development, Web Basics  
 - Tools: Git, GitHub  
 
----
 
-## 🚀 Projects
-Here are some of my works:
-- 📱 Mobile Application Projects  
-- 💻 College Assignments & Practice Projects  
-- 🌐 Web Clones  
-
-(Working on uploading more soon...)
-
----
 
 ## 🎯 Goals
 - 💼 Looking for Internship / Job Opportunities  
@@ -36,9 +25,3 @@ Here are some of my works:
 
 ---
 
-## 📫 Connect with me
-- GitHub: https://github.com/ShreyaMahale18  
-
----
-
-⭐ *“Learning step by step and growing every day in tech.”*
